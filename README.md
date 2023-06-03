@@ -1,18 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Kdl-pMpn)
 ![BrightCoders Logo](img/logo.png)
 
-# Introducción a Ruby
+## Introducción a Ruby
 
-> [Antes de iniciar leer las instrucciones](./instructions.md)
+> [Read Instructions](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Table of contents
+- [Description](#Description)
+- [Credits](#Credits)
 
-Things you may want to cover:
+## Description.
+This repository contains my first practice exercises of Ruby.
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+## Credits
+- [@Alonso2105](https://github.com/Alonso2105)
